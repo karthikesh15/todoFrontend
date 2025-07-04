@@ -1,4 +1,5 @@
-MERN Stack To-Do App
+MERN Stack To-Do App:
+
 A full-stack To-Do List Application developed using the MERN stack – MongoDB, Express.js, React, and Node.js. This app helps users manage their daily tasks efficiently with powerful features like priority management, status filtering, and real-time task updates.
 
 Features
